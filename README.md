@@ -1,1 +1,6 @@
-# MyRepo
+# Git is cool!!
+MyRepo
+
+dfhvuidfkasncasiuchiocn;lkjioovegfhew
+
+
